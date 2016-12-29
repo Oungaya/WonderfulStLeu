@@ -1,0 +1,1666 @@
+<panotour version="2.5.5.400">
+ <project workspaceOriginX="0" startZoomOnCursor="false" autorotationDelay="1" VRcursordisplay="always" workspaceWidth="2014" VRCursorAlpha="255" startWithLittlePlanet="false" VRIconsAlpha="255" autotourMode="autotourModeFull" startSoundsON="true" autorotationDirection="right" workspaceScale="-1" objectId="0" workspaceOriginY="0" hideControlsDuringIntroduction="true" VRkeepview="right" startTouchType="drag" VRdesktop="right" VRIconsColor="#ffffff" autorotationSpeed="5" relativePath="True" startMouseType="moveto" startControlsHidden="false" workspaceHeight="2221" startVolume="100" VRCursorColor="#ffffff" startChangeCursor="true">
+  <description foregroundColor="#000000" foregroundAlpha="255" name="Nouveau projet" backgroundAlpha="255" backgroundColor="#ffffff"/>
+  <group x="20" thumbMode="False" y="273" nbColumn="-1" objectId="36" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 36" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="44.9981" vFov="44.9981" maxPixelZoom="true" hFov="360" heading="0" y="0" phi="0" dontGenerateTiles="false" minFov="1" objectId="7" lowres="true" type="0" planar="false" tourDirectory="_2_7" x="0" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="2" backgroundAlpha="255" filename="photphoto/2.jpg" backgroundColor="#ffffff"/>
+    <spot x="137.876" y="27.8378" relativeX="0.952509" objectId="188" relativeY="0.437838" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 1" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="41.9323" locked="False" id="object" type="Object" depends="" targetId="6" sourceId="7" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.955853" y="0.356757"/>
+     <point x="0.941806" y="0.481081"/>
+     <point x="0.963211" y="0.518919"/>
+    </spot>
+    <spot x="76.8088" y="35.625" relativeX="0.545392" objectId="1148" relativeY="0.541667" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 22" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="44.0023" locked="False" id="object" type="Object" depends="" targetId="27" sourceId="7" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.544704" y="0.477778"/>
+     <point x="0.536451" y="0.594444"/>
+     <point x="0.554333" y="0.605556"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="23" thumbMode="False" y="511.846" nbColumn="-1" objectId="37" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 37" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="42.0058" vFov="42.0058" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="8" lowres="true" type="0" planar="false" tourDirectory="_3_8" x="-1" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="3" backgroundAlpha="255" filename="photphoto/3.jpg" backgroundColor="#ffffff"/>
+    <spot x="101.254" y="39.2197" relativeX="0.708362" objectId="259" relativeY="0.589595" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 4" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="42.6215" locked="False" id="object" type="Object" depends="" targetId="9" sourceId="8" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.710368" y="0.520231"/>
+     <point x="0.697659" y="0.647399"/>
+     <point x="0.719064" y="0.65896"/>
+    </spot>
+    <spot x="134.164" y="33.1541" relativeX="0.92776" objectId="601" relativeY="0.508721" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 1" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="41.9323" locked="False" id="object" type="Object" depends="" targetId="6" sourceId="8" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.92709" y="0.436047"/>
+     <point x="0.917057" y="0.569767"/>
+     <point x="0.938462" y="0.581395"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="286" thumbMode="False" y="510.3" nbColumn="-1" objectId="38" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 38" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="42.6215" vFov="42.6215" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="9" lowres="true" type="0" planar="false" tourDirectory="_4_9" x="-1" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="4" backgroundAlpha="255" filename="photphoto/4.jpg" backgroundColor="#ffffff"/>
+    <spot x="53.9465" y="26.5341" relativeX="0.392977" objectId="261" relativeY="0.420455" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 5" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="40.5175" locked="False" id="object" type="Object" depends="" targetId="10" sourceId="9" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.395987" y="0.357955"/>
+     <point x="0.383278" y="0.454545"/>
+     <point x="0.402676" y="0.482955"/>
+    </spot>
+    <spot x="127.04" y="24.7857" relativeX="0.880268" objectId="602" relativeY="0.397143" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 3" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="42.0058" locked="False" id="object" type="Object" depends="" targetId="8" sourceId="9" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.882943" y="0.342857"/>
+     <point x="0.870903" y="0.445714"/>
+     <point x="0.889632" y="0.451429"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="572" thumbMode="False" y="189.6" nbColumn="-1" objectId="39" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 39" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="43.1066" vFov="43.1066" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="34" lowres="true" type="0" planar="false" tourDirectory="_29_34" x="0" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="29" backgroundAlpha="255" filename="photphoto/29.jpg" backgroundColor="#ffffff"/>
+    <spot x="59.0134" y="37.161" relativeX="0.426756" objectId="606" relativeY="0.562147" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 28" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="45.5834" locked="False" id="object" type="Object" depends="" targetId="33" sourceId="34" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.427425" y="0.497175"/>
+     <point x="0.41806" y="0.621469"/>
+     <point x="0.435452" y="0.627119"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="63" thumbMode="False" y="787.849" nbColumn="-1" objectId="41" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 41" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="46.2868" vFov="46.2868" maxPixelZoom="true" hFov="360" heading="0" y="292" phi="0" dontGenerateTiles="false" minFov="1" objectId="13" lowres="true" type="0" planar="false" tourDirectory="_8_13" x="155" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="8" backgroundAlpha="255" filename="photphoto/8.jpg" backgroundColor="#ffffff"/>
+    <spot x="23.3946" y="31.322" relativeX="0.189297" objectId="792" relativeY="0.484293" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 7" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="42.6215" locked="False" id="object" type="Object" depends="" targetId="12" sourceId="13" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.191973" y="0.439791"/>
+     <point x="0.184615" y="0.528796"/>
+     <point x="0.19398" y="0.528796"/>
+    </spot>
+    <spot x="60.9197" y="34.0707" relativeX="0.439465" objectId="807" relativeY="0.520943" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 9" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="49.6334" locked="False" id="object" type="Object" depends="" targetId="14" sourceId="13" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.44214" y="0.497382"/>
+     <point x="0.43612" y="0.539267"/>
+     <point x="0.442809" y="0.544503"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="89" thumbMode="False" y="913" nbColumn="-1" objectId="43" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 43" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="49.6334" vFov="49.6334" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="14" lowres="true" type="0" planar="false" tourDirectory="_9_14" x="-1" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="9" backgroundAlpha="255" filename="photphoto/9.jpg" backgroundColor="#ffffff"/>
+    <spot x="26.2542" y="30.6618" relativeX="0.208361" objectId="794" relativeY="0.47549" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 10" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="45.3604" locked="False" id="object" type="Object" depends="" targetId="15" sourceId="14" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.208027" y="0.45098"/>
+     <point x="0.204682" y="0.5"/>
+     <point x="0.21204" y="0.495098"/>
+    </spot>
+    <spot x="106.672" y="26.8015" relativeX="0.744482" objectId="808" relativeY="0.424019" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 8" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="46.2868" locked="False" id="object" type="Object" depends="" targetId="13" sourceId="14" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.744482" y="0.387255"/>
+     <point x="0.73913" y="0.460784"/>
+     <point x="0.749833" y="0.45098"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="63" thumbMode="False" y="1047.48" nbColumn="-1" objectId="44" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 44" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="45.3604" vFov="45.3604" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="15" lowres="true" type="0" planar="false" tourDirectory="_10_15" x="-1" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="10" backgroundAlpha="255" filename="photphoto/10.jpg" backgroundColor="#ffffff"/>
+    <spot x="127.241" y="29.0909" relativeX="0.881606" objectId="793" relativeY="0.454545" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 9" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="49.6334" locked="False" id="object" type="Object" depends="" targetId="14" sourceId="15" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.882274" y="0.42246"/>
+     <point x="0.877592" y="0.481283"/>
+     <point x="0.885619" y="0.486631"/>
+    </spot>
+    <spot x="4.12371" y="33.5302" relativeX="0.0608247" objectId="1128" relativeY="0.513736" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 11" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="44.8197" locked="False" id="object" type="Object" depends="" targetId="16" sourceId="15" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.0618557" y="0.472527"/>
+     <point x="0.0536082" y="0.554945"/>
+     <point x="0.0680412" y="0.538462"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="51" thumbMode="False" y="1185.01" nbColumn="-1" objectId="45" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 45" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="44.8197" vFov="44.8197" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="16" lowres="true" type="0" planar="false" tourDirectory="_11_16" x="-1" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="11" backgroundAlpha="255" filename="photphoto/11.jpg" backgroundColor="#ffffff"/>
+    <spot x="85.6186" y="31.0335" relativeX="0.605498" objectId="1129" relativeY="0.511173" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 10" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="45.3604" locked="False" id="object" type="Object" depends="" targetId="15" sourceId="16" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.604124" y="0.480447"/>
+     <point x="0.598625" y="0.541899"/>
+     <point x="0.612371" y="0.536313"/>
+    </spot>
+    <spot x="50.4124" y="35.6425" relativeX="0.369416" objectId="1136" relativeY="0.541899" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 12" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="42.6215" locked="False" id="object" type="Object" depends="" targetId="17" sourceId="16" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.37732" y="0.49162"/>
+     <point x="0.360825" y="0.581006"/>
+     <point x="0.378007" y="0.592179"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="486" thumbMode="False" y="1155.46" nbColumn="-1" objectId="46" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 46" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="42.6215" vFov="42.6215" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="17" lowres="true" type="0" planar="false" tourDirectory="_12_17" x="-1" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="12" backgroundAlpha="255" filename="photphoto/12.jpg" backgroundColor="#ffffff"/>
+    <spot x="69.7491" y="28.8571" relativeX="0.498327" objectId="797" relativeY="0.451429" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 13" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="42.0058" locked="False" id="object" type="Object" depends="" targetId="18" sourceId="17" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.498328" y="0.417143"/>
+     <point x="0.493645" y="0.48"/>
+     <point x="0.50301" y="0.485714"/>
+    </spot>
+    <spot x="138.454" y="32.0614" relativeX="0.956357" objectId="1135" relativeY="0.494152" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 11" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="44.8197" locked="False" id="object" type="Object" depends="" targetId="16" sourceId="17" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.955326" y="0.403509"/>
+     <point x="0.941581" y="0.573099"/>
+     <point x="0.971134" y="0.584795"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="704" thumbMode="False" y="829.252" nbColumn="-1" objectId="47" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 47" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="42.0058" vFov="42.0058" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="18" lowres="true" type="0" planar="false" tourDirectory="_13_18" x="-1" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="13" backgroundAlpha="255" filename="photphoto/13.jpg" backgroundColor="#ffffff"/>
+    <spot x="18.9799" y="62.8052" relativeX="0.159866" objectId="795" relativeY="0.904069" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 14" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="45.2048" locked="False" id="object" type="Object" depends="" targetId="19" sourceId="18" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.160535" y="0.860465"/>
+     <point x="0.153177" y="0.947674"/>
+     <point x="0.166555" y="0.94186"/>
+    </spot>
+    <spot x="60.6689" y="37.9506" relativeX="0.437793" objectId="798" relativeY="0.572675" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 12" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="42.6215" locked="False" id="object" type="Object" depends="" targetId="17" sourceId="18" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.436789" y="0.534884"/>
+     <point x="0.432107" y="0.610465"/>
+     <point x="0.443478" y="0.610465"/>
+    </spot>
+    <spot x="88.4114" y="37.0785" relativeX="0.622742" objectId="799" relativeY="0.561046" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 15" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="41.569" locked="False" id="object" type="Object" depends="" targetId="20" sourceId="18" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.628763" y="0.581395"/>
+     <point x="0.616722" y="0.604651"/>
+     <point x="0.621405" y="0.517442"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="370" thumbMode="False" y="841.958" nbColumn="-1" objectId="48" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 48" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="45.2048" vFov="45.2048" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="19" lowres="true" type="0" planar="false" tourDirectory="_14_19" x="-1" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="14" backgroundAlpha="255" filename="photphoto/14.jpg" backgroundColor="#ffffff"/>
+    <spot x="134.013" y="20.4033" relativeX="0.926756" objectId="796" relativeY="0.33871" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 13" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="42.0058" locked="False" id="object" type="Object" depends="" targetId="18" sourceId="19" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.925753" y="0.274194"/>
+     <point x="0.916388" y="0.392473"/>
+     <point x="0.937124" y="0.403226"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="838" thumbMode="False" y="992.485" nbColumn="-1" objectId="49" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 49" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="41.569" vFov="41.569" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="20" lowres="true" type="0" planar="false" tourDirectory="_15_20" x="-1" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="15" backgroundAlpha="255" filename="photphoto/15.jpg" backgroundColor="#ffffff"/>
+    <spot x="5.48495" y="26.1403" relativeX="0.0698996" objectId="800" relativeY="0.415204" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 13" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="42.0058" locked="False" id="object" type="Object" depends="" targetId="18" sourceId="20" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.0729097" y="0.368421"/>
+     <point x="0.064214" y="0.461988"/>
+     <point x="0.0755853" y="0.461988"/>
+    </spot>
+    <spot x="81.5702" y="18.9458" relativeX="0.575758" objectId="801" relativeY="0.36747" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 16" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="43.3944" locked="False" id="object" type="Object" depends="" targetId="21" sourceId="20" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.577135" y="0.319277"/>
+     <point x="0.581956" y="0.415663"/>
+     <point x="0.569559" y="0.409639"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="804" thumbMode="False" y="1155.61" nbColumn="-1" objectId="50" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 50" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="43.3944" vFov="43.3944" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="21" lowres="true" type="0" planar="false" tourDirectory="_16_21" x="-1" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="16" backgroundAlpha="255" filename="photphoto/16.jpg" backgroundColor="#ffffff"/>
+    <spot x="45" y="20.578" relativeX="0.335055" objectId="803" relativeY="0.381503" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 15" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="41.569" locked="False" id="object" type="Object" depends="" targetId="20" sourceId="21" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.333333" y="0.34104"/>
+     <point x="0.32989" y="0.421965"/>
+     <point x="0.34022" y="0.416185"/>
+    </spot>
+    <spot x="132.603" y="24.4798" relativeX="0.917355" objectId="1137" relativeY="0.393064" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 17" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="43.8467" locked="False" id="object" type="Object" depends="" targetId="22" sourceId="21" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.92011" y="0.346821"/>
+     <point x="0.90978" y="0.433526"/>
+     <point x="0.924931" y="0.439306"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="1083" thumbMode="False" y="1167.64" nbColumn="-1" objectId="51" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 51" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="43.8467" vFov="43.8467" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="22" lowres="true" type="0" planar="false" tourDirectory="_17_22" x="-1" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="17" backgroundAlpha="255" filename="photphoto/17.jpg" backgroundColor="#ffffff"/>
+    <spot x="80.9504" y="23.2857" relativeX="0.573003" objectId="1138" relativeY="0.377143" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 16" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="43.3944" locked="False" id="object" type="Object" depends="" targetId="21" sourceId="22" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.57438" y="0.331429"/>
+     <point x="0.566116" y="0.422857"/>
+     <point x="0.57989" y="0.422857"/>
+    </spot>
+    <spot x="142.06" y="20.2857" relativeX="0.980399" objectId="1144" relativeY="0.337143" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 18" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="44.5255" locked="False" id="object" type="Object" depends="" targetId="23" sourceId="22" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.982806" y="0.285714"/>
+     <point x="0.971114" y="0.388571"/>
+     <point x="0.989684" y="0.382857"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="1215" thumbMode="False" y="1015.08" nbColumn="-1" objectId="52" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 52" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="44.5255" vFov="44.5255" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="23" lowres="true" type="0" planar="false" tourDirectory="_18_23" x="-1" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="18" backgroundAlpha="255" filename="photphoto/18.jpg" backgroundColor="#ffffff"/>
+    <spot x="120.719" y="29.2213" relativeX="0.838127" objectId="789" relativeY="0.456284" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 19" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="41.569" locked="False" id="object" type="Object" depends="" targetId="24" sourceId="23" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.838796" y="0.42623"/>
+     <point x="0.834114" y="0.480874"/>
+     <point x="0.84214" y="0.486339"/>
+    </spot>
+    <spot x="49.3157" y="26.1798" relativeX="0.362105" objectId="1143" relativeY="0.41573" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 17" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="43.8467" locked="False" id="object" type="Object" depends="" targetId="22" sourceId="23" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.360385" y="0.348315"/>
+     <point x="0.350069" y="0.483146"/>
+     <point x="0.37414" y="0.483146"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="1226" thumbMode="False" y="819.538" nbColumn="-1" objectId="53" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 53" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="41.569" vFov="41.569" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="24" lowres="true" type="0" planar="false" tourDirectory="_19_24" x="-1" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="19" backgroundAlpha="255" filename="photphoto/19.jpg" backgroundColor="#ffffff"/>
+    <spot x="67.6422" y="24.1667" relativeX="0.484281" objectId="787" relativeY="0.388889" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 20" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="42.6223" locked="False" id="object" type="Object" depends="" targetId="25" sourceId="24" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.484281" y="0.356725"/>
+     <point x="0.480268" y="0.415205"/>
+     <point x="0.488294" y="0.421053"/>
+    </spot>
+    <spot x="142.191" y="25.0439" relativeX="0.981271" objectId="788" relativeY="0.400585" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 18" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="44.5255" locked="False" id="object" type="Object" depends="" targetId="23" sourceId="24" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.982609" y="0.368421"/>
+     <point x="0.977258" y="0.432749"/>
+     <point x="0.985284" y="0.426901"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="1192" thumbMode="False" y="621.776" nbColumn="-1" objectId="54" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 54" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="42.6223" vFov="42.6223" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="25" lowres="true" type="0" planar="false" tourDirectory="_20_25" x="-1" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="20" backgroundAlpha="255" filename="photphoto/20.jpg" backgroundColor="#ffffff"/>
+    <spot x="93.2274" y="23.2857" relativeX="0.65485" objectId="617" relativeY="0.377143" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 21" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="45.7529" locked="False" id="object" type="Object" depends="" targetId="26" sourceId="25" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.654181" y="0.342857"/>
+     <point x="0.650167" y="0.411429"/>
+     <point x="0.659532" y="0.405714"/>
+    </spot>
+    <spot x="12.3579" y="25.6818" relativeX="0.115719" objectId="785" relativeY="0.409091" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 19" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="41.569" locked="False" id="object" type="Object" depends="" targetId="24" sourceId="25" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.116388" y="0.380682"/>
+     <point x="0.111706" y="0.4375"/>
+     <point x="0.119732" y="0.4375"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="1172" thumbMode="False" y="429.843" nbColumn="-1" objectId="55" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 55" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="45.7529" vFov="45.7529" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="26" lowres="true" type="0" planar="false" tourDirectory="_21_26" x="-1" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="21" backgroundAlpha="255" filename="photphoto/21.jpg" backgroundColor="#ffffff"/>
+    <spot x="16.6722" y="26.9149" relativeX="0.144481" objectId="615" relativeY="0.425532" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 22" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="44.0023" locked="False" id="object" type="Object" depends="" targetId="27" sourceId="26" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.144482" y="0.388298"/>
+     <point x="0.136455" y="0.462766"/>
+     <point x="0.152508" y="0.462766"/>
+    </spot>
+    <spot x="123.027" y="31.9016" relativeX="0.853512" objectId="618" relativeY="0.492021" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 20" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="42.6223" locked="False" id="object" type="Object" depends="" targetId="25" sourceId="26" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.853512" y="0.468085"/>
+     <point x="0.850167" y="0.505319"/>
+     <point x="0.856856" y="0.515957"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="1214" thumbMode="False" y="144.042" nbColumn="-1" objectId="57" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 57" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="40.0017" vFov="40.0017" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="28" lowres="true" type="0" planar="false" tourDirectory="_23_28" x="-1" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="23" backgroundAlpha="255" filename="photphoto/23.jpg" backgroundColor="#ffffff"/>
+    <spot x="99.0806" y="36.0156" relativeX="0.693871" objectId="1139" relativeY="0.546875" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 22" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="44.0023" locked="False" id="object" type="Object" depends="" targetId="27" sourceId="28" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.694215" y="0.46875"/>
+     <point x="0.684573" y="0.625"/>
+     <point x="0.703168" y="0.61875"/>
+    </spot>
+    <spot x="26.3102" y="50.0781" relativeX="0.208735" objectId="1142" relativeY="0.734375" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 24" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="42.6822" locked="False" id="object" type="Object" depends="" targetId="29" sourceId="28" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.209078" y="0.69375"/>
+     <point x="0.202201" y="0.775"/>
+     <point x="0.215268" y="0.76875"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="1010" thumbMode="False" y="23.431" nbColumn="-1" objectId="58" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 58" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="42.6822" vFov="42.6822" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="29" lowres="true" type="0" planar="false" tourDirectory="_24_29" x="-1" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="24" backgroundAlpha="255" filename="photphoto/24.jpg" backgroundColor="#ffffff"/>
+    <spot x="54.2977" y="31.4286" relativeX="0.395318" objectId="614" relativeY="0.485714" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 25" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="42.087" locked="False" id="object" type="Object" depends="" targetId="30" sourceId="29" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.396656" y="0.44"/>
+     <point x="0.389967" y="0.52"/>
+     <point x="0.400669" y="0.531429"/>
+    </spot>
+    <spot x="128.081" y="28.9706" relativeX="0.887208" objectId="1141" relativeY="0.452941" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 23" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="40.0017" locked="False" id="object" type="Object" depends="" targetId="28" sourceId="29" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.889959" y="0.417647"/>
+     <point x="0.882393" y="0.488235"/>
+     <point x="0.892022" y="0.488235"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="790" thumbMode="False" y="20" nbColumn="-1" objectId="59" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 59" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="42.087" vFov="42.087" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="30" lowres="true" type="0" planar="false" tourDirectory="_25_30" x="-1" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="25" backgroundAlpha="255" filename="photphoto/25.jpg" backgroundColor="#ffffff"/>
+    <spot x="67.6923" y="25.3468" relativeX="0.484615" objectId="613" relativeY="0.404624" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 24" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="42.6822" locked="False" id="object" type="Object" depends="" targetId="29" sourceId="30" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.486288" y="0.33526"/>
+     <point x="0.474247" y="0.473988"/>
+     <point x="0.494983" y="0.462428"/>
+    </spot>
+    <spot x="140.306" y="19.5536" relativeX="0.968707" objectId="1146" relativeY="0.327381" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 26" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="45.3699" locked="False" id="object" type="Object" depends="" targetId="31" sourceId="30" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.969739" y="0.279762"/>
+     <point x="0.962173" y="0.369048"/>
+     <point x="0.975241" y="0.375"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="572" thumbMode="False" y="18" nbColumn="-1" objectId="60" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 60" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="45.3699" vFov="45.3699" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="31" lowres="true" type="0" planar="false" tourDirectory="_26_31" x="-1" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="26" backgroundAlpha="255" filename="photphoto/26.jpg" backgroundColor="#ffffff"/>
+    <spot x="121.376" y="25.0824" relativeX="0.842503" objectId="1145" relativeY="0.401099" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 27" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="40.5814" locked="False" id="object" type="Object" depends="" targetId="32" sourceId="31" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.844567" y="0.346154"/>
+     <point x="0.830812" y="0.456044"/>
+     <point x="0.854195" y="0.456044"/>
+    </spot>
+    <spot x="1.91197" y="23.4341" relativeX="0.0460798" objectId="1147" relativeY="0.379121" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 25" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="42.087" locked="False" id="object" type="Object" depends="" targetId="30" sourceId="31" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.0474553" y="0.32967"/>
+     <point x="0.0385144" y="0.428571"/>
+     <point x="0.0536451" y="0.428571"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="110" thumbMode="False" y="111.157" nbColumn="-1" objectId="62" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 62" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="45.5834" vFov="45.5834" maxPixelZoom="true" hFov="360" heading="0" y="-1" phi="0" dontGenerateTiles="false" minFov="1" objectId="33" lowres="true" type="0" planar="false" tourDirectory="_28_33" x="-1" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="28" backgroundAlpha="255" filename="photphoto/28.jpg" backgroundColor="#ffffff"/>
+    <spot x="7.19064" y="27.5133" relativeX="0.0812709" objectId="264" relativeY="0.433511" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 29" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="43.1066" locked="False" id="object" type="Object" depends="" targetId="34" sourceId="33" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.0849498" y="0.356383"/>
+     <point x="0.0688963" y="0.510638"/>
+     <point x="0.0936455" y="0.5"/>
+    </spot>
+    <spot x="75.8696" y="26.516" relativeX="0.539131" objectId="605" relativeY="0.420213" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 27" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="40.5814" locked="False" id="object" type="Object" depends="" targetId="32" sourceId="33" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.541137" y="0.351064"/>
+     <point x="0.529766" y="0.484043"/>
+     <point x="0.548495" y="0.489362"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="60" thumbMode="False" y="385.437" nbColumn="-1" objectId="257" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 257" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="41.9323" vFov="41.9323" maxPixelZoom="true" hFov="360" heading="0" y="0" phi="0" dontGenerateTiles="false" minFov="1" objectId="6" lowres="true" type="0" planar="false" tourDirectory="_1_6" x="188" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="1" backgroundAlpha="255" filename="photphoto/1.jpg" backgroundColor="#ffffff"/>
+    <spot x="67.9933" y="26.6474" relativeX="0.486622" objectId="258" relativeY="0.421965" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 3" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="42.0058" locked="False" id="object" type="Object" depends="" targetId="8" sourceId="6" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.488963" y="0.34104"/>
+     <point x="0.476254" y="0.485549"/>
+     <point x="0.49699" y="0.50289"/>
+    </spot>
+    <spot x="1.92308" y="31.4099" relativeX="0.0461539" objectId="600" relativeY="0.485465" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 2" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="44.9981" locked="False" id="object" type="Object" depends="" targetId="7" sourceId="6" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.0441472" y="0.412791"/>
+     <point x="0.0367893" y="0.55814"/>
+     <point x="0.0555184" y="0.540698"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="532" thumbMode="False" y="617.347" nbColumn="-1" objectId="260" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 260" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="40.5175" vFov="40.5175" maxPixelZoom="true" hFov="360" heading="0" y="292" phi="0" dontGenerateTiles="false" minFov="1" objectId="10" lowres="true" type="0" planar="false" tourDirectory="_5_10" x="576" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="5" backgroundAlpha="255" filename="photphoto/5.jpg" backgroundColor="#ffffff"/>
+    <spot x="132.809" y="33.3982" relativeX="0.918729" objectId="603" relativeY="0.511976" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 4" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="42.6215" locked="False" id="object" type="Object" depends="" targetId="9" sourceId="10" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.917057" y="0.437126"/>
+     <point x="0.909699" y="0.586826"/>
+     <point x="0.927759" y="0.550898"/>
+    </spot>
+    <spot x="19.8705" y="19.373" relativeX="0.165803" objectId="1133" relativeY="0.324973" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 6" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="50.6252" locked="False" id="object" type="Object" depends="" targetId="11" sourceId="10" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.166406" y="0.285714"/>
+     <point x="0.16014" y="0.358779"/>
+     <point x="0.171466" y="0.364231"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="320" thumbMode="False" y="5.00301" nbColumn="-1" objectId="263" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 263" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="40.5814" vFov="40.5814" maxPixelZoom="true" hFov="360" heading="0" y="1314" phi="0" dontGenerateTiles="false" minFov="1" objectId="32" lowres="true" type="0" planar="false" tourDirectory="_27_32" x="192" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="27" backgroundAlpha="255" filename="photphoto/27.jpg" backgroundColor="#ffffff"/>
+    <spot x="69.7993" y="23.7425" relativeX="0.498662" objectId="604" relativeY="0.383233" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 28" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="45.5834" locked="False" id="object" type="Object" depends="" targetId="33" sourceId="32" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.499666" y="0.305389"/>
+     <point x="0.488294" y="0.461078"/>
+     <point x="0.50903" y="0.461078"/>
+    </spot>
+    <spot x="113.144" y="18.5778" relativeX="0.787625" objectId="612" relativeY="0.314371" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 26" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="45.3699" locked="False" id="object" type="Object" depends="" targetId="31" sourceId="32" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.787291" y="0.257485"/>
+     <point x="0.779933" y="0.371257"/>
+     <point x="0.795318" y="0.353293"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="855.395" thumbMode="False" y="295.8" nbColumn="-1" objectId="607" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 607" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="44.0023" vFov="44.0023" maxPixelZoom="true" hFov="360" heading="0" y="1314" phi="0" dontGenerateTiles="false" minFov="1" objectId="27" lowres="true" type="0" planar="false" tourDirectory="_22_27" x="192" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="22" backgroundAlpha="255" filename="photphoto/22.jpg" backgroundColor="#ffffff"/>
+    <spot x="49.0301" y="22.7624" relativeX="0.3602" objectId="608" relativeY="0.370165" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 29" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="43.1066" locked="False" id="object" type="Object" depends="" targetId="34" sourceId="27" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.360535" y="0.303867"/>
+     <point x="0.351839" y="0.430939"/>
+     <point x="0.368562" y="0.436464"/>
+    </spot>
+    <spot x="83.9967" y="19.0331" relativeX="0.593311" objectId="609" relativeY="0.320442" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 2" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="44.9981" locked="False" id="object" type="Object" depends="" targetId="7" sourceId="27" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.596656" y="0.270718"/>
+     <point x="0.585284" y="0.348066"/>
+     <point x="0.601338" y="0.370166"/>
+    </spot>
+    <spot x="114.247" y="27.3204" relativeX="0.794983" objectId="616" relativeY="0.430939" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 21" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="45.7529" locked="False" id="object" type="Object" depends="" targetId="26" sourceId="27" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.802007" y="0.348066"/>
+     <point x="0.784615" y="0.486188"/>
+     <point x="0.805351" y="0.513812"/>
+    </spot>
+    <spot x="0.836777" y="23.9773" relativeX="0.0389118" objectId="1140" relativeY="0.386364" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 23" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="40.0017" locked="False" id="object" type="Object" depends="" targetId="28" sourceId="27" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.0406336" y="0.306818"/>
+     <point x="0.0282369" y="0.465909"/>
+     <point x="0.0495868" y="0.460227"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="20" thumbMode="False" y="637" nbColumn="-1" objectId="809" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 809" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="42.6215" vFov="42.6215" maxPixelZoom="true" hFov="360" heading="0" y="255.936" phi="0" dontGenerateTiles="false" minFov="1" objectId="12" lowres="true" type="0" planar="false" tourDirectory="_7_12" x="41" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="7" backgroundAlpha="255" filename="photphoto/7.jpg" backgroundColor="#ffffff"/>
+    <spot x="61.271" y="25.6818" relativeX="0.441806" objectId="791" relativeY="0.40909" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 8" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="46.2868" locked="False" id="object" type="Object" depends="" targetId="13" sourceId="12" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.444816" y="0.363636"/>
+     <point x="0.435452" y="0.448864"/>
+     <point x="0.448161" y="0.454545"/>
+    </spot>
+    <spot x="136.773" y="27.3864" relativeX="0.94515" objectId="806" relativeY="0.431818" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 6" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="50.6252" locked="False" id="object" type="Object" depends="" targetId="11" sourceId="12" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.947157" y="0.375"/>
+     <point x="0.93913" y="0.488636"/>
+     <point x="0.951171" y="0.465909"/>
+    </spot>
+   </pano>
+  </group>
+  <group x="255" thumbMode="False" y="638.936" nbColumn="-1" objectId="1127" explicit="False">
+   <description foregroundColor="#ffffff" foregroundAlpha="255" name="Groupe 1127" backgroundAlpha="255" backgroundColor="#808080"/>
+   <pano startYaw="0" startFov="50.6252" vFov="50.6252" maxPixelZoom="true" hFov="360" heading="0" y="244" phi="0" dontGenerateTiles="false" minFov="1" objectId="11" lowres="true" type="0" planar="false" tourDirectory="_6_11" x="253" maxFov="90" startPitch="0">
+    <description foregroundColor="#000000" foregroundAlpha="255" name="6" backgroundAlpha="255" filename="photphoto/6.jpg" backgroundColor="#ffffff"/>
+    <spot x="86.7558" y="28.1938" relativeX="0.611705" objectId="805" relativeY="0.442584" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 7" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="42.6215" locked="False" id="object" type="Object" depends="" targetId="12" sourceId="11" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.611371" y="0.411483"/>
+     <point x="0.606689" y="0.473684"/>
+     <point x="0.616722" y="0.4689"/>
+    </spot>
+    <spot x="129.897" y="37.8571" relativeX="0.899313" objectId="1134" relativeY="0.571429" type="polygon">
+     <description/>
+     <presetAction id="user_defaultpolygon0">
+      <action description="Aller à 5" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="40.5175" locked="False" id="object" type="Object" depends="" targetId="10" sourceId="11" customTargetView="False">
+       <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+        <item name="Aucun" value="none"/>
+        <item name="Look to the spot" value="looktospot"/>
+        <item name="Zoomer sur le point" value="zoominonspot"/>
+        <item name="Zoom -" value="zoomoutonpanorama"/>
+       </select>
+       <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+        <item name="Aucun" value="none"/>
+        <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+        <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+        <item name="Charge de la vue du panorama" value="loadpanoview"/>
+        <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+       </select>
+      </action>
+     </presetAction>
+     <point x="0.904467" y="0.512315"/>
+     <point x="0.887285" y="0.605911"/>
+     <point x="0.91134" y="0.630542"/>
+    </spot>
+   </pano>
+  </group>
+  <build useMultiResolution="true" encryptConfig="false" lang="fr" baseDir="C:/Users/Asus/Pictures" iBookTour="false" imgJpegQuality="9" htmlTemplate="fullpage.html" mobilesTour="true" displayErrors="true" filename="WonderfulStLeu" desktopTour="true" html5Tour="true" exportComments="true" useMobileScale="true" flashTour="true"/>
+  <plugins/>
+  <author objectId="1" url="">
+   <description/>
+  </author>
+  <tooltipstyle fontstyle="bold" fontsize="14" roundedge="0" borderwidth="0" displayBackground="false" shadowed="true" fontfamily="Arial">
+   <foregroundColor color="#ffffff" source="customColor" alpha="1"/>
+   <backgroundColor color="#aeaeae" source="customColor" alpha="1"/>
+   <borderColor color="#ffffff" source="customColor" alpha="1"/>
+   <shadowColor color="#000000" source="customColor" alpha="1"/>
+  </tooltipstyle>
+  <presetActions>
+   <presetAction isDefault="True" timestamp="0" objectId="0" locked="False" type="actionicon" id="user_defaultpoint0" spotType="point">
+    <description description="tr:This is the default preset for point spots" name="Default Point Spot Style" previewFile="../../../../../:Resources/spots/classic/hotspot_neutral.png"/>
+    <display type="point">
+     <bool default="true" name="Utiliser l'icône depuis la librairie" uiPreview="false" customize="false" id="fileorlib"/>
+     <filechooser default="" name="Fichier icône" uiPreview="false" conditionalValues="false" filters="images,flash" allowEmpty="false" customize="false" conditionalParam="fileorlib" id="icon" allowRemote="true"/>
+     <spoticonchooser default="theme02|tr:Neutral|image" name="Icône" uiPreview="false" conditionalValues="true" allowSequences="true" customize="false" conditionalParam="fileorlib" id="iconChooser"/>
+     <row uiPreview="false" conditionalValues="true" customize="false" conditionalParam="fileorlib" id="rowcolor">
+      <bool default="false" name="Couleur personnalisée" uiPreview="false" customize="false" id="customcolor"/>
+      <color default="#fdc400" name="Couleur" allowDynamicSource="false" uiPreview="false" source="customColor" conditionalValues="true" needAlpha="true" customize="false" defaultAlpha="1" conditionalParam="customcolor" id="iconcolor"/>
+     </row>
+     <size name="Taille" uiPreview="false" needKeepRatio="false" customize="false" id="size">
+      <dimension default="0" maximum="999" name="Largeur" uiPreview="false" availableUnits="pixel" needAutomatic="false" currentUnit="pixel" customize="false" minimum="0" id="width"/>
+      <dimension default="0" maximum="999" name="Hauteur" uiPreview="false" availableUnits="pixel" needAutomatic="false" currentUnit="pixel" customize="false" minimum="0" id="height"/>
+     </size>
+     <advanced uiPreview="false" customize="false" id="advancedGrp">
+      <bool default="false" name="Modifier la taille en fonction du niveau de zoom" uiPreview="false" customize="false" id="zoom"/>
+      <bool default="false" name="Modifier la transparence au survol" uiPreview="false" customize="false" id="alphaonhover"/>
+      <bool default="false" name="Modifier la taille au survol" uiPreview="false" customize="false" id="scaleonhover"/>
+      <number default="0" maximum="360" name="Angle de rotation" uiPreview="false" customize="false" suffix=" °" minimum="0" id="rotationAngle"/>
+      <select default="center" name="Position de l'ancre" uiPreview="false" customize="false" id="anchor">
+       <item name="Centre" value="center"/>
+       <item name="Bas" value="bottom"/>
+      </select>
+     </advanced>
+    </display>
+    <display flags="haspermanenttooltip" type="common">
+     <bool default="false" name="Mettre en pause l'autorotation au survol" uiPreview="false" customize="false" id="pauserotationonhover"/>
+     <string default="" description="Saisissez un texte d'infobulle qui sera appliqué à tous les spots ayant ce style.&#xa;Vous pouvez utiliser des caractères de substitution&#xa;- %p pour le nom de la scène ou du groupe cible&#xa;- %d pour la description de la scène ou du groupe cible" name="Texte et/ou caractères de remplissage des infobulles" uiPreview="false" needTranslation="true" customize="false" id="tooltipTemplate"/>
+     <select default="tooltipdesktoponhover" name="Règle d'affichage des infobulles sur desktop" uiPreview="false" customize="false" id="permanentTooltipDesktop">
+      <item name="Au survol" value="tooltipdesktoponhover"/>
+      <item name="Permanent" value="tooltipdesktoppermanent"/>
+     </select>
+     <select default="tooltipdevicesnever" name="Règle d'affichage des infobulles sur mobiles et tablettes" uiPreview="false" customize="false" id="permanentTooltipDevices">
+      <item name="Jamais" value="tooltipdevicesnever"/>
+      <item name="Permanent" value="tooltipdevicespermanent"/>
+     </select>
+    </display>
+    <action description="Charger un panorama spécifique ou le 1er panorama d'un groupe" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="0" locked="False" id="object" type="Object" depends="" targetId="-1" sourceId="-1" customTargetView="False">
+     <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+      <item name="Aucun" value="none"/>
+      <item name="Look to the spot" value="looktospot"/>
+      <item name="Zoomer sur le point" value="zoominonspot"/>
+      <item name="Zoom -" value="zoomoutonpanorama"/>
+     </select>
+     <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+      <item name="Aucun" value="none"/>
+      <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+      <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+      <item name="Charge de la vue du panorama" value="loadpanoview"/>
+      <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+     </select>
+    </action>
+   </presetAction>
+   <presetAction isDefault="True" timestamp="0" objectId="0" locked="False" type="actionlensflare" id="user_defaultlensflare0" spotType="lensflare">
+    <description description="tr:This is the default preset for lensflares" name="Default Lensflare Style" previewFile=":/UI/spotlensflarepreview.png"/>
+   </presetAction>
+   <presetAction isDefault="True" timestamp="0" objectId="0" locked="False" type="actionrectpicture" id="user_defaultimage0" spotType="rectpicture">
+    <description description="tr:This is the default preset for picture hotspots" name="Default Picture Spot Style" previewFile=":/UI/spotpicturepreview.png"/>
+    <display type="rectpicture">
+     <select default="always" name="Affichage de l'image" uiPreview="false" customize="false" id="picturedisplay">
+      <item name="Toujours" value="always"/>
+      <item name="Au survol" value="onhover"/>
+      <item name="Lors du clic" value="onclick"/>
+      <item name="Masqué" value="hidden"/>
+     </select>
+     <number default="0" maximum="2000" name="Durée des fondus d'entrée et sortie" uiPreview="false" conditionalValues="onhover,onclick" customize="false" suffix=" ms" conditionalParam="picturedisplay" minimum="0" id="changepicturedelay"/>
+     <group name="Options de maximisation de l'image" uiPreview="false" conditionalValues="always,onhover,hidden" customize="false" conditionalParam="picturedisplay" id="flyonclickGrp">
+      <bool default="false" name="Maximiser la taille de l'image au clic" uiPreview="false" customize="false" id="flyonclick"/>
+      <dimension default="0" maximum="9999" name="Largeur maximisée" uiPreview="false" availableUnits="pixel" conditionalValues="true" needAutomatic="false" currentUnit="pixel" customize="false" conditionalParam="flyonclick" minimum="0" id="flyingwidth"/>
+      <dimension default="0" maximum="9999" name="Hauteur maximisée" uiPreview="false" availableUnits="pixel" conditionalValues="true" needAutomatic="false" currentUnit="pixel" customize="false" conditionalParam="flyonclick" minimum="0" id="flyingheight"/>
+     </group>
+    </display>
+    <display type="common">
+     <bool default="false" name="Mettre en pause l'autorotation au survol" uiPreview="false" customize="false" id="pauserotationonhover"/>
+     <string default="" description="Saisissez un texte d'infobulle qui sera appliqué à tous les spots ayant ce style.&#xa;Vous pouvez utiliser des caractères de substitution&#xa;- %p pour le nom de la scène ou du groupe cible&#xa;- %d pour la description de la scène ou du groupe cible" name="Texte et/ou caractères de remplissage des infobulles" uiPreview="false" needTranslation="true" customize="false" id="tooltipTemplate"/>
+    </display>
+    <action description="" actionChooserRef="" category="" name="" contentTemplate="" callTemplate="" internal="0" locked="False" id="none" type="" depends=""/>
+   </presetAction>
+   <presetAction isDefault="True" timestamp="0" objectId="0" locked="False" type="actionpolygon" id="user_defaultpolygon0" spotType="polygon">
+    <description description="tr:This is the default preset for polygon hotspots" name="Default Polygon Spot Style" previewFile=":/UI/spotpolygonpreview.png"/>
+    <display type="polygon">
+     <select default="always" name="Affichage du polygone" uiPreview="false" customize="false" id="displayedwhen">
+      <item name="Toujours" value="always"/>
+      <item name="Au survol" value="onhover"/>
+      <item name="jamais" value="never"/>
+     </select>
+     <color default="#ffffff" name="Couleur de la bordure" allowDynamicSource="false" uiPreview="false" source="customColor" needAlpha="true" customize="false" defaultAlpha="1" id="bordercolor"/>
+     <dimension default="1" maximum="9999" name="Largeur de la bordure" uiPreview="false" availableUnits="pixel" needAutomatic="false" currentUnit="pixel" customize="false" minimum="0" id="borderwidth"/>
+     <color default="#ffffff" name="Couleur de Remplissage" allowDynamicSource="false" uiPreview="false" source="customColor" needAlpha="true" customize="false" defaultAlpha="0.4" id="fillcolor"/>
+     <group name="Options d'affichage au survol" uiPreview="false" conditionalValues="always" customize="false" conditionalParam="displayedwhen" id="displayedWhenAlwaysGrp">
+      <bool default="false" name="Changer l'aspect au survol" uiPreview="false" customize="false" id="alwayshoverstate"/>
+      <color default="#ffffff" name="Couleur de la bordure au survol" allowDynamicSource="false" uiPreview="false" source="customColor" conditionalValues="true" needAlpha="true" customize="false" defaultAlpha="1" conditionalParam="alwayshoverstate" id="bordercolorhover"/>
+      <dimension default="4" maximum="9999" name="Largeur de la bordure au survol" uiPreview="false" availableUnits="pixel" conditionalValues="true" needAutomatic="false" currentUnit="pixel" customize="false" conditionalParam="alwayshoverstate" minimum="0" id="borderwidthhover"/>
+      <color default="#ffffff" name="Couleur de Remplissage au survol" allowDynamicSource="false" uiPreview="false" source="customColor" conditionalValues="true" needAlpha="true" customize="false" defaultAlpha="0.6" conditionalParam="alwayshoverstate" id="fillcolorhover"/>
+     </group>
+    </display>
+    <display type="common">
+     <bool default="false" name="Mettre en pause l'autorotation au survol" uiPreview="false" customize="false" id="pauserotationonhover"/>
+     <string default="" description="Saisissez un texte d'infobulle qui sera appliqué à tous les spots ayant ce style.&#xa;Vous pouvez utiliser des caractères de substitution&#xa;- %p pour le nom de la scène ou du groupe cible&#xa;- %d pour la description de la scène ou du groupe cible" name="Texte et/ou caractères de remplissage des infobulles" uiPreview="false" needTranslation="true" customize="false" id="tooltipTemplate"/>
+    </display>
+    <action description="Charger un panorama spécifique ou le 1er panorama d'un groupe" actionChooserRef="" category="basic" startPitch="0" name="Aller vers un panorama ou un groupe" contentTemplate="" callTemplate="loadpanoramaactioncall.tmpl" startYaw="0" internal="0" startFov="0" locked="False" id="object" type="Object" depends="" targetId="-1" sourceId="-1" customTargetView="False">
+     <select default="none" name="Transition de la source" uiPreview="false" customize="true" id="sourcetransition">
+      <item name="Aucun" value="none"/>
+      <item name="Look to the spot" value="looktospot"/>
+      <item name="Zoomer sur le point" value="zoominonspot"/>
+      <item name="Zoom -" value="zoomoutonpanorama"/>
+     </select>
+     <select default="loadspotview" name="Transition de la cible" uiPreview="false" customize="true" id="targettransition">
+      <item name="Aucun" value="none"/>
+      <item name="Vue personnalisée à vue du panorama" value="spotviewtopanoview"/>
+      <item name="Chargement de la vue personnalisée" value="loadspotview"/>
+      <item name="Charge de la vue du panorama" value="loadpanoview"/>
+      <item name="Vue du panorama vers vue personnalisée" value="panoviewtospotview"/>
+     </select>
+    </action>
+   </presetAction>
+  </presetActions>
+ </project>
+ <filesCache/>
+</panotour>
