@@ -1,1 +1,0 @@
-Ajouter le dossier "photphoto" à la racine du projet, dossier qui contiens tout les panoramas (ben ouais sans c'est plus dur)
